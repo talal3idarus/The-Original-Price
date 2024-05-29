@@ -1,0 +1,101 @@
+{
+  "Products": {
+      "-NxHOnuC585VX9RNxEJu": {
+        "image": "https://www.electromart.com.gh/wp-content/uploads/2024/02/iphone15-.png",
+        "brand": "Apple",
+        "name": "Iphone 15",
+        "peice": "318.999 OMR",
+        "starRating": 4.5,
+        "type": "mobile"
+      },
+      "-NxHOnuIYRA2b7HNSH3J": {
+        "image": "https://pimcdn.sharafdg.com/cdn-cgi/image/width=600,height=600,fit=pad/images/samsung_galaxy_s24_marble_grey_1?1706856261?g=0",
+        "brand": "Samsung",
+        "name": "Samsung Galaxy S24",
+        "peice": "317.340 OMR",
+        "starRating": 4.5,
+        "type": "mobile"
+      },
+      "-NxHOnuIYRA2b7HNSH3R": {
+        "image": "https://pimcdn.sharafdg.com/cdn-cgi/image/width=600,height=600,fit=pad/images/S300847840_1?1711525341?g=0",
+        "brand": "Honor",
+        "name": "Honor 90",
+        "peice": "159.900 OMR",
+        "starRating": 4.5,
+        "type": "mobile"
+      },
+      "-NxHOnuIYRA2b7HNSH3T": {
+        "image": "https://phoneaqua.com/assets/images/products/sony-xperia-5-.webp",
+        "brand": "Sony",
+        "name": "Sony Xperia 5",
+        "peice": "238.000 OMR",
+        "starRating": 4,
+        "type": "mobile"
+      },
+      "-NxHOnuC585VX9RNxEJU": {
+        "image": "https://gccgamers.com/media/amasty/amoptmobile/catalog/product/cache/0a4c4c74bd7c6848269384895d45f803/9/s/9s7-182221-073_jpg.webp",
+        "brand": "Acer",
+        "name": "MSI Titan 18 HX A14VIG Gaming Laptop",
+        "peice": "2,377.520 OMR",
+        "starRating": 4,
+        "type": "laptop"
+      },
+      "-NxHOnuIYRA2b7HNSH3j": {
+        "image": "https://pimcdn.sharafdg.com/cdn-cgi/image/width=600,height=600,fit=pad/images/S300838580_1?1711526208?g=0",
+        "brand": "Dell",
+        "name": "Dell Inspiron 14",
+        "peice": "419.900 OMR",
+        "starRating": 4.5,
+        "type": "laptop"
+      },
+      "-NxHOnuC585VX9RNxEJf": {
+        "image": "https://pimcdn.sharafdg.com/cdn-cgi/image/width=600,height=600,fit=pad/images/macbook_pro_14_in_m3_pro_max_space_black_1?1711526239?g=0",
+        "brand": "Apple",
+        "name": "Apple MacBook Pro 14-inch (2023)",
+        "peice": "918.435 OMR",
+        "starRating": 4.5,
+        "type": "laptop"
+      },
+      "-NxHOnuIYRA2b7HNSH3d": {
+        "image": "https://pimcdn.sharafdg.com/cdn-cgi/image/width=600,height=600,fit=pad/images/S300859313_1?1696847532?g=0",
+        "brand": "HP",
+        "name": "HP Spectre x360 2-in-1 Convertible (2023)",
+        "peice": "755.810 OMR",
+        "starRating": 4.5,
+        "type": "laptop"
+      },
+      "-NxHOnuC585VX9RNxEJa": {
+        "image": "https://microless.com/cdn/products/6a706fa76895d3989b45c2e306a1fa32-md.jpg",
+        "brand": "Amazon",
+        "name": "Amazon Echo Dot 5th Gen 2022",
+        "peice": "31.000 OMR",
+        "starRating": 4.5,
+        "type": "others"
+      },
+      "-NxHOnuIYRA2b7HNSH3b": {
+        "image": "https://media.extra.com/i/aurora/100353172_100_01?fmt=auto&w=850",
+        "brand": "Sony",
+        "name": "Playstation 5",
+        "peice": "179.000 OMR",
+        "starRating": 4.5,
+        "type": "others"
+      },
+      "-NxHOnuC585VX9RNxEJk": {
+        "image": "https://pimcdn.sharafdg.com/cdn-cgi/image/width=600,height=600,fit=pad/images/S100718427_1?1705940270?g=0",
+        "brand": "Sony",
+        "name": "Sony WH-XB910N/B",
+        "peice": "67.900 OMR",
+        "starRating": 4.5,
+        "type": "others"
+      },
+      "-NxHOnuIYRA2b7HNSH3n": {
+        "image": "https://pimcdn.sharafdg.com/cdn-cgi/image/width=600,height=600,fit=pad/images/S200790328_1?1710134760?g=0",
+        "brand": "Anker",
+        "name": "Anker A3991H11 Soundcore Life P2i",
+        "peice": "15.645 OMR",
+        "starRating": 4.5,
+        "type": "others"
+      }
+  }
+}
+
